@@ -1,5 +1,16 @@
-### Hi there 👋
 
+```js
+const [Hola, Como, Va] = saludo;
+const  Seba  =  {
+  _aboutMe: "Entusiasta, proactivo y detallista. Siempre dispuesto a aprender y enseñar.
+              Orientado al Frontend.",
+  techSkills : [ Javascript ,  Html ,  Css, React ,  Redux , MaterialUI, Node] , 
+  softSkills : [ TeamWork, Srum, Autodidact ] , 
+ desafío : "Estoy en la etapa final del bootcamp de #Henry, mi primer proyecto grupal " 
+}
+
+const proyect = (problem)=>{ return solution}
+```
 <!--
 **SebaSanchezI/SebaSanchezI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
