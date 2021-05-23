@@ -15,11 +15,13 @@ const future = new Proyect(['React Native', 'UX/UI']);
 ```
 **My favorite tools:**
 
-**You can find me:**
-- [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
-
-
 **Proyects:**
+
+**You can find me:**
+ [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
+
+
+
 
 
 
