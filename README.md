@@ -1,4 +1,4 @@
-**Who i am?:**
+**Who I am?**
 ```js
 const  Seba  =  {
   _aboutMe: "Entusiasta, proactivo y detallista. Siempre dispuesto a aprender y enseñar.
@@ -16,7 +16,7 @@ const future = new Proyect(['React Native', 'UX/UI']);
 **My favorite tools:**
 
 **You can find me:**
-- [Linkedin](https://www.linkedin.com/in/sebastiansanchezisame/)
+- [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
 
 
 **Proyects:**
