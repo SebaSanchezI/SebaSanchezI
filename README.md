@@ -15,7 +15,8 @@ const future = new Proyect(['React Native', 'UX/UI']);
 ```
 
 You can find me:
-- [Linkedin] {https://www.linkedin.com/in/sebastiansanchezisame/}
+- [Linkedin] (https://www.linkedin.com/in/sebastiansanchezisame/)
+- [Linkedin]{https://www.linkedin.com/in/sebastiansanchezisame/}
 
 
 <!--
