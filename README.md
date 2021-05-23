@@ -12,10 +12,12 @@ const proyect = problem =>  solution;
 
 const future = new Proyect(['React Native', 'UX/UI']);
 
+```
+
 You can find me:
 - Linkedin [https://www.linkedin.com/in/sebastiansanchezisame/]
 
-```
+
 <!--
 **SebaSanchezI/SebaSanchezI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
