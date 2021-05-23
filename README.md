@@ -25,7 +25,7 @@ const future = new Proyect(['React Native', 'UX/UI']);
 <h3>You can find me:</h3>
 
  [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
- [![Whatsapp](icons/whatsapp.png)](https://wa.me/5493424097403)
+
  [![Outlook](icons/outlook.png)](mailto:sebastian.sanchezisame@outlook.com)
  
   
