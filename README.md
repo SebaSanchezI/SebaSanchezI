@@ -16,6 +16,11 @@ const future = new Proyect(['React Native', 'UX/UI']);
 **My favorite tools:**
 
 **Proyects:**
+<p>POKEAPI - Proyecto Individual</p>
+<img src='imagenes/Captura de Pantalla 2021-05-23 a la(s) 13.53.02.png' alt='pokeapi' height='380' width='540'>
+
+<p>INTEGRA - Proyecto Grupal</p>
+<img src='Captura de Pantalla 2021-05-23 a la(s) 13.43.33.png' alt='integra' height='480' width='640'>
 
 **You can find me:**
  [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
