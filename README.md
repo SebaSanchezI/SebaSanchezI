@@ -17,8 +17,8 @@ const future = new Proyect(['React Native', 'UX/UI']);
 <p>POKEAPI - Individual Project</p>
 <img src='imagenes/pokeapi.png' alt='pokeapi' height='380' width='540'>
 
-<p>INTEGRA -Group Project</p>
-<img src='imagenes/integra.png' alt='integra' height='380' width='540'>
+<p><a href='https://integra-platform.web.app/'>INTEGRA<a/>-Group Project</p>
+<a href='https://integra-platform.web.app/'><img src='imagenes/integra.png' alt='integra' height='380' width='540'><a/>
 <hr>
 <h3>You can find me in:</h3>
 
