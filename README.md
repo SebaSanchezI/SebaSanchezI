@@ -24,9 +24,10 @@ const future = new Proyect(['React Native', 'UX/UI']);
 <hr>
 <h3>You can find me:</h3>
 
-
  [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
-
+ [![Whatsapp](icons/whatsapp.png)](https://wa.me/5493424097403)
+ 
+  
 
 
 
