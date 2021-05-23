@@ -1,4 +1,3 @@
-**Who I am?**
 ```js
 const  Seba  =  {
   _aboutMe: "Entusiasta, proactivo y detallista. Siempre dispuesto a aprender y enseñar.
@@ -13,13 +12,24 @@ const proyect = problem =>  solution;
 const future = new Proyect(['React Native', 'UX/UI']);
 
 ```
-**My favorite tools:**
+<hr>
+<h3>My favorite tools:</h3>
+<hr>
+<h3>Proyects:</h3>
+<p>POKEAPI - Proyecto Individual</p>
+<img src='imagenes/Captura de Pantalla 2021-05-23 a la(s) 13.53.02.png' alt='pokeapi' height='380' width='540'>
 
-**You can find me:**
-- [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
+<p>INTEGRA - Proyecto Grupal</p>
+<img src='imagenes/Captura de Pantalla 2021-05-23 a la(s) 13.43.33.png' alt='integra' height='380' width='540'>
+<hr>
+<h3>You can find me:</h3>
+
+ [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
+ [![Whatsapp](icons/whatsapp.png)](https://wa.me/5493424097403)
+ 
+  
 
 
-**Proyects:**
 
 
 
