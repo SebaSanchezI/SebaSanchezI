@@ -7,9 +7,9 @@ const  Seba  =  {
  challenge: "I'm in the final stage of the #Henry bootcamp, my first group project. " 
 }
 
-const project = problem =>  solution;
+const objetive = problem =>  solution;
 
-const future = new Proyect(['React Native', 'UX/UI']);
+const future = new Project(['React Native', 'UX/UI']);
 
 ```
 <hr>
