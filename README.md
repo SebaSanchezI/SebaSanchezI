@@ -3,7 +3,7 @@ const  Seba  =  {
   _aboutMe: "Enthusiastic, proactive and detailed. Always ready to learn and teach.
              Frontend oriented.",
   techSkills: [ Javascript ,  Html ,  Css, React ,  Redux , MaterialUI, Node] , 
-  softSkills: [ TeamWork, Srum, Autodidact ] , 
+  softSkills: [ TeamWork, Scrum, Autodidact ] , 
  challenge: "I'm in the final stage of the #Henry bootcamp, my first group project. " 
 }
 
