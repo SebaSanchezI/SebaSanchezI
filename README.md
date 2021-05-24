@@ -1,31 +1,30 @@
 ```js
 const  Seba  =  {
-  _aboutMe: "Entusiasta, proactivo y detallista. Siempre dispuesto a aprender y enseñar.
-              Orientado al Frontend.",
+  _aboutMe: "Enthusiastic, proactive and detailed. Always ready to learn and teach.
+             Frontend oriented.",
   techSkills: [ Javascript ,  Html ,  Css, React ,  Redux , MaterialUI, Node] , 
-  softSkills: [ TeamWork, Srum, Autodidact ] , 
- challenge: "Estoy en la etapa final del bootcamp de #Henry, mi primer proyecto grupal " 
+  softSkills: [ TeamWork, Scrum, Autodidact ] , 
+ challenge: "I'm in the final stage of the #Henry bootcamp, my first group project. " 
 }
 
-const proyect = problem =>  solution;
+const objetive = problem =>  solution;
 
-const future = new Proyect(['React Native', 'UX/UI']);
+const future = new Project(['React Native', 'UX/UI']);
 
 ```
 <hr>
-<h3>My favorite tools:</h3>
-<hr>
 <h3>Proyects:</h3>
-<p>POKEAPI - Proyecto Individual</p>
-<img src='imagenes/Captura de Pantalla 2021-05-23 a la(s) 13.53.02.png' alt='pokeapi' height='380' width='540'>
+<p>POKEAPI - Individual Project</p>
+<img src='imagenes/pokeapi.png' alt='pokeapi' height='380' width='540'>
 
-<p>INTEGRA - Proyecto Grupal</p>
-<img src='imagenes/Captura de Pantalla 2021-05-23 a la(s) 13.43.33.png' alt='integra' height='380' width='540'>
+<p><a href='https://integra-platform.web.app/'>INTEGRA<a/>-Group Project</p>
+<a href='https://integra-platform.web.app/'><img src='imagenes/integra.png' alt='integra' height='380' width='540'><a/>
 <hr>
-<h3>You can find me:</h3>
+<h3>You can find me in:</h3>
 
  [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
  [![Whatsapp](icons/whatsapp.png)](https://wa.me/5493424097403)
+ [![Outlook](icons/outlook.png)](mailto:sebastian.sanchezisame@outlook.com)
  
   
 
@@ -35,15 +34,3 @@ const future = new Proyect(['React Native', 'UX/UI']);
 
 
 <!--
-**SebaSanchezI/SebaSanchezI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
