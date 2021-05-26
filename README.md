@@ -13,9 +13,11 @@ const future = new Project(['React Native', 'UX/UI']);
 
 ```
 <hr>
+<h3><a href="https://sebasanchezi.github.io/" target="_blank" >PORTFOLIO</a></h3>
+<hr>
 <h3>Proyects:</h3>
 <p>POKEAPI - Individual Project</p>
-<img src='imagenes/pokemon.png' alt='pokeapi' height='380' width='540'>
+<img src='imagenes/pokeapi.png' alt='pokeapi' height='380' width='540'>
 
 <p><a href='https://integra-platform.web.app/'>INTEGRA<a/>-Group Project</p>
 <a href='https://integra-platform.web.app/'><img src='imagenes/integra.png' alt='integra' height='380' width='540'><a/>
