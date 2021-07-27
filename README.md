@@ -17,11 +17,11 @@ const future = new Project(['React Native', 'UX/UI']);
 <img src='imagenes/portfolio.png' alt='pokeapi' height='380' width='540'>
 <hr>
 <h3>Proyects:</h3>
-<p><a href='https://integra-platform.web.app/'>INTEGRA<a/> - Group Project</p>
-<a href='https://integra-platform.web.app/'><img src='imagenes/integra.png' alt='integra' height='380' width='540'><a/>
+<p><a href='https://integra-platform.web.app/' target="_blank" >INTEGRA<a/> - Group Project</p>
+<a href='https://integra-platform.web.app/' target="_blank" ><img src='imagenes/integra.png' alt='integra' height='380' width='540'><a/>
 <hr>
-<p><a href='https://sebasanchezi.github.io/pokeapi.html'>POKEAPI <a/>- Individual Project</p>
-<a href='https://sebasanchezi.github.io/pokeapi.html'><img src='imagenes/pokeapi2.png' alt='pokeapi' height='380' width='540'><a/>
+<p><a href='https://sebasanchezi.github.io/pokeapi.html' target="_blank" >POKEAPI <a/>- Individual Project</p>
+<a href='https://sebasanchezi.github.io/pokeapi.html' target="_blank" ><img src='imagenes/pokeapi2.png' alt='pokeapi' height='380' width='540'><a/>
 <h3>You can find me in:</h3>
 
  [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
