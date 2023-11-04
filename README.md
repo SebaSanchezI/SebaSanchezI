@@ -1,15 +1,15 @@
 ```js
 const  Seba  =  {
   _aboutMe: "Enthusiastic, proactive and detailed. Always ready to learn and teach.
-             Frontend oriented.",
-  techSkills: [ Javascript ,  Html ,  Css, React ,  Redux , MaterialUI, Node] , 
+             Frontend oriented.", 
+  techSkills: [ Javascript ,  Html ,  Css, React ,  Redux , MaterialUI, Node, Styled components, CI/CD] , 
   softSkills: [ TeamWork, Scrum, Autodidact ] , 
- challenge: "I'm in the final stage of the #Henry bootcamp, my first group project. " 
+ challenge: "I've been working as a Frontend developer for the last two years. My main goal is to become a software architect." 
 }
 
 const objetive = problem =>  solution;
 
-const future = new Project(['React Native', 'UX/UI']);
+const future = new Project([Mobile Development, 'UX/UI', Server Side Rendering]);
 
 ```
 <hr>
